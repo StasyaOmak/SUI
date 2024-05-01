@@ -11,6 +11,7 @@
 		6FB14BB32BE0B6CC0014DEC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB14BB22BE0B6CC0014DEC0 /* ContentView.swift */; };
 		6FB14BB52BE0B6CE0014DEC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FB14BB42BE0B6CE0014DEC0 /* Assets.xcassets */; };
 		6FB14BB82BE0B6CE0014DEC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FB14BB72BE0B6CE0014DEC0 /* Preview Assets.xcassets */; };
+		6FB14BBF2BE0B76A0014DEC0 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FB14BBE2BE0B76A0014DEC0 /* Colors.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6FB14BB22BE0B6CC0014DEC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6FB14BB42BE0B6CE0014DEC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FB14BB72BE0B6CE0014DEC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6FB14BBE2BE0B76A0014DEC0 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				6FB14BB02BE0B6CC0014DEC0 /* SUIApp.swift */,
 				6FB14BB22BE0B6CC0014DEC0 /* ContentView.swift */,
 				6FB14BB42BE0B6CE0014DEC0 /* Assets.xcassets */,
+				6FB14BBE2BE0B76A0014DEC0 /* Colors.xcassets */,
 				6FB14BB62BE0B6CE0014DEC0 /* Preview Content */,
 			);
 			path = SUI;
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FB14BBF2BE0B76A0014DEC0 /* Colors.xcassets in Resources */,
 				6FB14BB82BE0B6CE0014DEC0 /* Preview Assets.xcassets in Resources */,
 				6FB14BB52BE0B6CE0014DEC0 /* Assets.xcassets in Resources */,
 			);
